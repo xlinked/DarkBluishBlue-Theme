@@ -1,5 +1,5 @@
 {
-    "name": "DarkBluishBlue",
+    "name": "darkbluishblue",
     "displayName": "DarkBluishBlue",
 	"Discription": "Dark with blues VS Code theme",
     "version": "0.0.1",
@@ -8,6 +8,13 @@
 		"type": "git",
 		"url": "https://github.com/xlinked/DarkBluishBlue-Theme.git"
 	},
+    "keywords": [
+        "themes",
+        "dark theme",
+        "dark blue theme",
+        "blue theme",
+        "blue berries"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
