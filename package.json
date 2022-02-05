@@ -1,0 +1,21 @@
+{
+    "name": "DarkBluishBlue",
+    "displayName": "DarkBluishBlue",
+    "description": "Dark Mode Blue Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkBluishBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkBluishBlue-color-theme.json"
+            }
+        ]
+    }
+}
