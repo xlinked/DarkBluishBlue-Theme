@@ -1,13 +1,10 @@
 {
-	"name": "DarkBluishBlue-Theme",
-	"DisplayName": "DarkBluishBlue-Theme",
+	"name": "DarkBluishBlue-Dark-Theme",
 	"type": "dark",
-	"Discription": "Dark with blues VS Code theme",
-	"publisher": "RelyT",
-	"respository": {
-		"type": "git",
-		"url": "https://github.com/xlinked/DarkBluishBlue-Theme.git"
-	},
+	"window.zoomLevel": 1,
+    "editor.hover.enabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
 
 	"colors": {
 		"window.activeBorder": "#0ccded",
@@ -30,6 +27,11 @@
         "sideBarSectionHeader.border": "#0ccded",
         "sideBarTitle.foreground": "#d3e6ea",
         "sideBar.border": "#0ccded",
+
+		"statusBar.background": "#007acc",
+		"statusBar.debuggingBackground": "#ff0000",
+		"statusBar.noFolderBackground": "#007acc",
+
 		"editor.foreground": "#eeffff",
 		"editor.background": "#0d0734",
         "editorLineNumber.foreground": "#0ccded",
@@ -123,7 +125,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ead9d3"
+				"foreground": "#dfb6fc"
 			}
 		},
 		{
@@ -134,7 +136,8 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#7ea4df"
+				"foreground": "#7e91fa"
+
 			}
 		},
 		{
@@ -197,7 +200,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#8fb9f8"
 			}
 		},
 		{
@@ -236,7 +239,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#56a6ca"
 			}
 		},
 		{
@@ -286,7 +289,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#accdd7"
 			}
 		},
 		{
@@ -306,7 +309,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
@@ -473,7 +476,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#e8b68d"
 			}
 		},
 		{
